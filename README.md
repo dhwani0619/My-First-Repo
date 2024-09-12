@@ -1,7 +1,2 @@
-This is my first repo!
-
-I am very excited...
-
-Lets gooo!!! 
-
-Yayyy!
+This change was made in new branch
+I hope I know how to  do this 
